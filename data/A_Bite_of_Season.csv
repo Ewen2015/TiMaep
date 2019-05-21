@@ -1,338 +1,338 @@
-month,item,category,item_en,,,
-1,菠萝,fruit,pineapple,,,
-1,甘蔗,fruit,,,,
-1,砂糖橘,fruit,,,,
-1,腰果,nut,,,,
-1,白菜,vege,,,,
-1,小白菜,vege,,,,
-1,菠菜,vege,,,,
-1,彩椒,vege,,,,
-1,胡萝卜,vege,,,,
-2,甘蔗,fruit,,,,
-2,柠檬,fruit,,,,
-2,圣女果,fruit,,,,
-2,白菜,vege,,,,
-2,小白菜,vege,,,,
-2,韭菜,vege,,,,
-2,彩椒,vege,,,,
-2,胡萝卜,vege,,,,
-2,春笋,vege,,,,
-2,腰果,nut,,,,
-3,枇杷,fruit,,,,
-3,柠檬,fruit,,,,
-3,圣女果,fruit,,,,
-3,荸荠,vege,,,,
-3,小白菜,vege,,,,
-3,韭菜,vege,,,,
-3,彩椒,vege,,,,
-3,胡萝卜,vege,,,,
-3,春笋,vege,,,,
-3,腰果,nut,,,,
-4,枇杷,fruit,,,,
-4,柠檬,fruit,,,,
-4,圣女果,fruit,,,,
-4,菠萝,fruit,,,,
-4,韭菜,vege,,,,
-4,彩椒,vege,,,,
-4,胡萝卜,vege,,,,
-4,春笋,vege,,,,
-4,荸荠,vege,,,,
-4,茶树菇,vege,,,,
-4,大葱,vege,,,,
-4,西兰花,vege,,,,
-4,蒜苔,vege,,,,
-4,腰果,nut,,,,
-5,菠萝,fruit,,,,
-5,草莓,fruit,,,,
-5,火龙果,fruit,,,,
-5,荔枝,fruit,,,,
-5,枇杷,fruit,,,,
-5,桑葚,fruit,,,,
-5,山竹,fruit,,,,
-5,樱桃,fruit,,,,
-5,白萝卜,vege,,,,
-5,菠菜,vege,,,,
-5,彩椒,vege,,,,
-5,春笋,vege,,,,
-5,茶树菇,vege,,,,
-5,大葱,vege,,,,
-5,韭菜,vege,,,,
-5,蒜苔,vege,,,,
-5,土豆,vege,,,,
-5,西兰花,vege,,,,
-5,圆白菜,vege,,,,
-5,洋葱,vege,,,,
-5,油菜,vege,,,,
-5,蚕豆,nut,,,,
-5,腰果,nut,,,,
-6,菠萝,fruit,,,,
-6,草莓,fruit,,,,
-6,黑莓,fruit,,,,
-6,火龙果,fruit,,,,
-6,蓝莓,fruit,,,,
-6,荔枝,fruit,,,,
-6,榴莲,fruit,,,,
-6,桑葚,fruit,,,,
-6,桃,fruit,,,,
-6,山竹,fruit,,,,
-6,杏,fruit,,,,
-6,西瓜,fruit,,,,
-6,香瓜,fruit,,,,
-6,樱桃,fruit,,,,
-6,杨梅,fruit,,,,
-6,椰子,fruit,,,,
-6,神秘果,fruit,,,,
-6,释迦果,fruit,,,,
-6,白萝卜,vege,,,,
-6,菠菜,vege,,,,
-6,彩椒,vege,,,,
-6,茶树菇,vege,,,,
-6,豆角,vege,,,,
-6,大葱,vege,,,,
-6,大蒜,vege,,,,
-6,黄瓜,vege,,,,
-6,茄子,vege,,,,
-6,土豆,vege,,,,
-6,西红柿,vege,,,,
-6,圆白菜,vege,,,,
-6,洋葱,vege,,,,
-6,油菜,vege,,,,
-6,蚕豆,nut,,,,
-7,苹果,fruit,,,,
-7,菠萝,fruit,,,,
-7,黑莓,fruit,,,,
-7,火龙果,fruit,,,,
-7,哈密瓜,fruit,,,,
-7,龙眼,fruit,,,,
-7,蓝莓,fruit,,,,
-7,李子,fruit,,,,
-7,荔枝,fruit,,,,
-7,榴莲,fruit,,,,
-7,芒果,fruit,,,,
-7,蟠桃,fruit,,,,
-7,桃,fruit,,,,
-7,山竹,fruit,,,,
-7,杏,fruit,,,,
-7,西瓜,fruit,,,,
-7,香瓜,fruit,,,,
-7,油桃,fruit,,,,
-7,杨梅,fruit,,,,
-7,杨桃,fruit,,,,
-7,椰子,fruit,,,,
-7,释迦果,fruit,,,,
-7,白菜,vege,,,,
-7,菠菜,vege,,,,
-7,彩椒,vege,,,,
-7,茶树菇,vege,,,,
-7,豆角,vege,,,,
-7,大葱,vege,,,,
-7,大蒜,vege,,,,
-7,黄瓜,vege,,,,
-7,南瓜,vege,,,,
-7,茄子,vege,,,,
-7,土豆,vege,,,,
-7,西红柿,vege,,,,
-7,圆白菜,vege,,,,
-7,洋葱,vege,,,,
-7,核桃,nut,,,,
-7,葵花子,nut,,,,
-7,夏威夷果,nut,,,,
-8,苹果,fruit,,,,
-8,百香果,fruit,,,,
-8,黄桃,fruit,,,,
-8,火龙果,fruit,,,,
-8,哈密瓜,fruit,,,,
-8,龙眼,fruit,,,,
-8,蓝莓,fruit,,,,
-8,李子,fruit,,,,
-8,荔枝,fruit,,,,
-8,榴莲,fruit,,,,
-8,猕猴桃,fruit,,,,
-8,木瓜,fruit,,,,
-8,芒果,fruit,,,,
-8,葡萄,fruit,,,,
-8,蟠桃,fruit,,,,
-8,青提,fruit,,,,
-8,桃,fruit,,,,
-8,沙果,fruit,,,,
-8,山竹,fruit,,,,
-8,无花果,fruit,,,,
-8,西瓜,fruit,,,,
-8,油桃,fruit,,,,
-8,杨梅,fruit,,,,
-8,杨桃,fruit,,,,
-8,椰子,fruit,,,,
-8,释迦果,fruit,,,,
-8,白菜,vege,,,,
-8,菠菜,vege,,,,
-8,豆角,vege,,,,
-8,冬瓜,vege,,,,
-8,大葱,vege,,,,
-8,大蒜,vege,,,,
-8,黄瓜,vege,,,,
-8,红薯,vege,,,,
-8,南瓜,vege,,,,
-8,茄子,vege,,,,
-8,圆白菜,vege,,,,
-8,板栗,nut,,,,
-8,巴旦木,nut,,,,
-8,花生,nut,,,,
-8,核桃,nut,,,,
-8,葵花子,nut,,,,
-8,开心果,nut,,,,
-8,夏威夷果,nut,,,,
-8,榛子,nut,,,,
-9,苹果,fruit,,,,
-9,百香果,fruit,,,,
-9,菇娘,fruit,,,,
-9,红提,fruit,,,,
-9,黄桃,fruit,,,,
-9,海棠果,fruit,,,,
-9,火龙果,fruit,,,,
-9,哈密瓜,fruit,,,,
-9,龙眼,fruit,,,,
-9,蓝莓,fruit,,,,
-9,李子,fruit,,,,
-9,蜜柑,fruit,,,,
-9,猕猴桃,fruit,,,,
-9,木瓜,fruit,,,,
-9,芒果,fruit,,,,
-9,葡萄,fruit,,,,
-9,蟠桃,fruit,,,,
-9,青提,fruit,,,,
-9,蛇果,fruit,,,,
-9,沙果,fruit,,,,
-9,柿子,fruit,,,,
-9,山竹,fruit,,,,
-9,石榴,fruit,,,,
-9,无花果,fruit,,,,
-9,西柚,fruit,,,,
-9,香梨,fruit,,,,
-9,梨,fruit,,,,
-9,西瓜,fruit,,,,
-9,杨桃,fruit,,,,
-9,枣,fruit,,,,
-9,人参果,fruit,,,,
-9,释迦果,fruit,,,,
-9,菠菜,vege,,,,
-9,菜花,vege,,,,
-9,豆角,vege,,,,
-9,冬瓜,vege,,,,
-9,大辣椒,vege,,,,
-9,大蒜,vege,,,,
-9,红薯,vege,,,,
-9,姜,vege,,,,
-9,南瓜,vege,,,,
-9,圆白菜,vege,,,,
-9,油菜,vege,,,,
-9,板栗,nut,,,,
-9,白果,nut,,,,
-9,巴旦木,nut,,,,
-9,榧子,nut,,,,
-9,花生,nut,,,,
-9,核桃,nut,,,,
-9,葵花子,nut,,,,
-9,开心果,nut,,,,
-9,松子,nut,,,,
-9,夏威夷果,nut,,,,
-9,榛子,nut,,,,
-10,苹果,fruit,,,,
-10,菠萝,fruit,,,,
-10,百香果,fruit,,,,
-10,橄榄,fruit,,,,
-10,菇娘,fruit,,,,
-10,红提,fruit,,,,
-10,海棠果,fruit,,,,
-10,火龙果,fruit,,,,
-10,金橘,fruit,,,,
-10,橘子,fruit,,,,
-10,蜜柑,fruit,,,,
-10,猕猴桃,fruit,,,,
-10,木瓜,fruit,,,,
-10,葡萄,fruit,,,,
-10,脐橙,fruit,,,,
-10,蛇果,fruit,,,,
-10,柿子,fruit,,,,
-10,山楂,fruit,,,,
-10,石榴,fruit,,,,
-10,无花果,fruit,,,,
-10,西柚,fruit,,,,
-10,香梨,fruit,,,,
-10,梨,fruit,,,,
-10,香蕉,fruit,,,,
-10,柚子,fruit,,,,
-10,枣,fruit,,,,
-10,神秘果,fruit,,,,
-10,人参果,fruit,,,,
-10,释迦果,fruit,,,,
-10,白菜,vege,,,,
-10,菠菜,vege,,,,
-10,百合,vege,,,,
-10,菜花,vege,,,,
-10,豆角,vege,,,,
-10,冬瓜,vege,,,,
-10,大辣椒,vege,,,,
-10,大蒜,vege,,,,
-10,胡萝卜,vege,,,,
-10,红薯,vege,,,,
-10,姜,vege,,,,
-10,木耳,vege,,,,
-10,南瓜,vege,,,,
-10,土豆,vege,,,,
-10,西兰花,vege,,,,
-10,圆白菜,vege,,,,
-10,油菜,vege,,,,
-10,板栗,nut,,,,
-10,碧根果,nut,,,,
-10,白果,nut,,,,
-10,榧子,nut,,,,
-10,花生,nut,,,,
-10,核桃,nut,,,,
-10,南瓜子,nut,,,,
-10,开心果,nut,,,,
-10,松子,nut,,,,
-10,夏威夷果,nut,,,,
-10,榛子,nut,,,,
-11,苹果,fruit,,,,
-11,菠萝,fruit,,,,
-11,橄榄,fruit,,,,
-11,甘蔗,fruit,,,,
-11,菇娘,fruit,,,,
-11,海棠果,fruit,,,,
-11,火龙果,fruit,,,,
-11,金橘,fruit,,,,
-11,罗汉果,fruit,,,,
-11,橘子,fruit,,,,
-11,脐橙,fruit,,,,
-11,砂糖橘,fruit,,,,
-11,蛇果,fruit,,,,
-11,山楂,fruit,,,,
-11,香蕉,fruit,,,,
-11,柚子,fruit,,,,
-11,枣,fruit,,,,
-11,人参果,fruit,,,,
-11,释迦果,fruit,,,,
-11,白菜,vege,,,,
-11,菠菜,vege,,,,
-11,百合,vege,,,,
-11,胡萝卜,vege,,,,
-11,红薯,vege,,,,
-11,姜,vege,,,,
-11,木耳,vege,,,,
-11,土豆,vege,,,,
-11,西兰花,vege,,,,
-11,圆白菜,vege,,,,
-11,碧根果,nut,,,,
-11,榧子,nut,,,,
-11,南瓜子,nut,,,,
-12,菠萝,fruit,,,,
-12,橄榄,fruit,,,,
-12,甘蔗,fruit,,,,
-12,罗汉果,fruit,,,,
-12,橘子,fruit,,,,
-12,砂糖橘,fruit,,,,
-12,香蕉,fruit,,,,
-12,菠菜,vege,,,,
-12,胡萝卜,vege,,,,
-12,红薯,vege,,,,
-12,土豆,vege,,,,
+month,item,category,item_en
+1,菠萝,fruit,Pinapple
+1,甘蔗,fruit,Sugarcane
+1,砂糖橘,fruit,Sugar orange
+1,腰果,nut,Cashew nuts 215 000
+1,白菜,vege,White Cabbage
+1,小白菜,vege,Chinese cabbage#Varieties
+1,菠菜,vege,baby spinach
+1,彩椒,vege,Colorful pepper
+1,胡萝卜,vege,Carrot
+2,甘蔗,fruit,Sugarcane
+2,柠檬,fruit,Lemon
+2,圣女果,fruit,RED CHERRY TOMATO
+2,白菜,vege,White Cabbage
+2,小白菜,vege,Chinese cabbage#Varieties
+2,韭菜,vege,Allium tuberosum
+2,彩椒,vege,Colorful pepper
+2,胡萝卜,vege,Carrot
+2,春笋,vege,Spring bamboo shoots
+2,腰果,nut,Cashew nuts 215 000
+3,枇杷,fruit,Loquat
+3,柠檬,fruit,Lemon
+3,圣女果,fruit,RED CHERRY TOMATO
+3,荸荠,vege,荸荠
+3,小白菜,vege,Chinese cabbage#Varieties
+3,韭菜,vege,Allium tuberosum
+3,彩椒,vege,Colorful pepper
+3,胡萝卜,vege,Carrot
+3,春笋,vege,Spring bamboo shoots
+3,腰果,nut,Cashew nuts 215 000
+4,枇杷,fruit,Loquat
+4,柠檬,fruit,Lemon
+4,圣女果,fruit,RED CHERRY TOMATO
+4,菠萝,fruit,Pinapple
+4,韭菜,vege,Allium tuberosum
+4,彩椒,vege,Colorful pepper
+4,胡萝卜,vege,Carrot
+4,春笋,vege,Spring bamboo shoots
+4,荸荠,vege,荸荠
+4,茶树菇,vege,Tea tree mushroom
+4,大葱,vege,Allium fistulosum
+4,西兰花,vege,Broccoli
+4,蒜苔,vege,Garlic moss
+4,腰果,nut,Cashew nuts 215 000
+5,菠萝,fruit,Pinapple
+5,草莓,fruit,Garden strawberry
+5,火龙果,fruit,火龙果
+5,荔枝,fruit,Lychee
+5,枇杷,fruit,Loquat
+5,桑葚,fruit,Mulberry
+5,山竹,fruit,Purple mangosteen
+5,樱桃,fruit,Cherry
+5,白萝卜,vege,Radish
+5,菠菜,vege,baby spinach
+5,彩椒,vege,Colorful pepper
+5,春笋,vege,Spring bamboo shoots
+5,茶树菇,vege,Tea tree mushroom
+5,大葱,vege,Allium fistulosum
+5,韭菜,vege,Allium tuberosum
+5,蒜苔,vege,Garlic moss
+5,土豆,vege,Tudou
+5,西兰花,vege,Broccoli
+5,圆白菜,vege,cabbage
+5,洋葱,vege,onion
+5,油菜,vege,Canola
+5,蚕豆,nut,Vicia faba
+5,腰果,nut,Cashew nuts 215 000
+6,菠萝,fruit,Pinapple
+6,草莓,fruit,Garden strawberry
+6,黑莓,fruit,Blackberry
+6,火龙果,fruit,火龙果
+6,蓝莓,fruit,Blueberry|blueberries
+6,荔枝,fruit,Lychee
+6,榴莲,fruit,Durian
+6,桑葚,fruit,Mulberry
+6,桃,fruit,Peach
+6,山竹,fruit,Purple mangosteen
+6,杏,fruit,Almond
+6,西瓜,fruit,watermelon
+6,香瓜,fruit,muskmelons
+6,樱桃,fruit,Cherry
+6,杨梅,fruit,Myrica rubra
+6,椰子,fruit,Coconut
+6,神秘果,fruit,Mysterious fruit
+6,释迦果,fruit,Sakyamuni
+6,白萝卜,vege,Radish
+6,菠菜,vege,baby spinach
+6,彩椒,vege,Colorful pepper
+6,茶树菇,vege,Tea tree mushroom
+6,豆角,vege,Beans
+6,大葱,vege,Allium fistulosum
+6,大蒜,vege,garlic
+6,黄瓜,vege,Cucumber
+6,茄子,vege,Eggplant
+6,土豆,vege,Tudou
+6,西红柿,vege,Tomato
+6,圆白菜,vege,cabbage
+6,洋葱,vege,onion
+6,油菜,vege,Canola
+6,蚕豆,nut,Vicia faba
+7,苹果,fruit,Apple
+7,菠萝,fruit,Pinapple
+7,黑莓,fruit,Blackberry
+7,火龙果,fruit,火龙果
+7,哈密瓜,fruit,Cantaloupe
+7,龙眼,fruit,Dimocarpus longan
+7,蓝莓,fruit,Blueberry|blueberries
+7,李子,fruit,Prunus salicina
+7,荔枝,fruit,Lychee
+7,榴莲,fruit,Durian
+7,芒果,fruit,Mango
+7,蟠桃,fruit,Peach
+7,桃,fruit,Peach
+7,山竹,fruit,Purple mangosteen
+7,杏,fruit,Almond
+7,西瓜,fruit,watermelon
+7,香瓜,fruit,muskmelons
+7,油桃,fruit,Nectarines
+7,杨梅,fruit,Myrica rubra
+7,杨桃,fruit,Carambola
+7,椰子,fruit,Coconut
+7,释迦果,fruit,Sakyamuni
+7,白菜,vege,White Cabbage
+7,菠菜,vege,baby spinach
+7,彩椒,vege,Colorful pepper
+7,茶树菇,vege,Tea tree mushroom
+7,豆角,vege,Beans
+7,大葱,vege,Allium fistulosum
+7,大蒜,vege,garlic
+7,黄瓜,vege,Cucumber
+7,南瓜,vege,Pumpkin
+7,茄子,vege,Eggplant
+7,土豆,vege,Tudou
+7,西红柿,vege,Tomato
+7,圆白菜,vege,cabbage
+7,洋葱,vege,onion
+7,核桃,nut,Walnuts
+7,葵花子,nut,sunflower seeds
+7,夏威夷果,nut,Macadamia
+8,苹果,fruit,Apple
+8,百香果,fruit,Passiflora edulis
+8,黄桃,fruit,Yellow peach
+8,火龙果,fruit,火龙果
+8,哈密瓜,fruit,Cantaloupe
+8,龙眼,fruit,Dimocarpus longan
+8,蓝莓,fruit,Blueberry|blueberries
+8,李子,fruit,Prunus salicina
+8,荔枝,fruit,Lychee
+8,榴莲,fruit,Durian
+8,猕猴桃,fruit,Kiwi
+8,木瓜,fruit,papaya
+8,芒果,fruit,Mango
+8,葡萄,fruit,Grape
+8,蟠桃,fruit,Peach
+8,青提,fruit,Green
+8,桃,fruit,Peach
+8,沙果,fruit,Shaguo
+8,山竹,fruit,Purple mangosteen
+8,无花果,fruit,fig
+8,西瓜,fruit,watermelon
+8,油桃,fruit,Nectarines
+8,杨梅,fruit,Myrica rubra
+8,杨桃,fruit,Carambola
+8,椰子,fruit,Coconut
+8,释迦果,fruit,Sakyamuni
+8,白菜,vege,White Cabbage
+8,菠菜,vege,baby spinach
+8,豆角,vege,Beans
+8,冬瓜,vege,Winter melon
+8,大葱,vege,Allium fistulosum
+8,大蒜,vege,garlic
+8,黄瓜,vege,Cucumber
+8,红薯,vege,Sweet potato
+8,南瓜,vege,Pumpkin
+8,茄子,vege,Eggplant
+8,圆白菜,vege,cabbage
+8,板栗,nut,chestnuts
+8,巴旦木,nut,Badanmu
+8,花生,nut,Peanut
+8,核桃,nut,Walnuts
+8,葵花子,nut,sunflower seeds
+8,开心果,nut,Pistachio
+8,夏威夷果,nut,Macadamia
+8,榛子,nut,hazelnut
+9,苹果,fruit,Apple
+9,百香果,fruit,Passiflora edulis
+9,菇娘,fruit,Mushroom
+9,红提,fruit,Red
+9,黄桃,fruit,Yellow peach
+9,海棠果,fruit,Jellyfish
+9,火龙果,fruit,火龙果
+9,哈密瓜,fruit,Cantaloupe
+9,龙眼,fruit,Dimocarpus longan
+9,蓝莓,fruit,Blueberry|blueberries
+9,李子,fruit,Prunus salicina
+9,蜜柑,fruit,Mandarin
+9,猕猴桃,fruit,Kiwi
+9,木瓜,fruit,papaya
+9,芒果,fruit,Mango
+9,葡萄,fruit,Grape
+9,蟠桃,fruit,Peach
+9,青提,fruit,Green
+9,蛇果,fruit,Snake fruit
+9,沙果,fruit,Shaguo
+9,柿子,fruit,persimmon
+9,山竹,fruit,Purple mangosteen
+9,石榴,fruit,pomegranate
+9,无花果,fruit,fig
+9,西柚,fruit,grapefruit
+9,香梨,fruit,Pear
+9,梨,fruit,Pear
+9,西瓜,fruit,watermelon
+9,杨桃,fruit,Carambola
+9,枣,fruit,Jujube
+9,人参果,fruit,Ginseng fruit
+9,释迦果,fruit,Sakyamuni
+9,菠菜,vege,baby spinach
+9,菜花,vege,cauliflower
+9,豆角,vege,Beans
+9,冬瓜,vege,Winter melon
+9,大辣椒,vege,Big chili
+9,大蒜,vege,garlic
+9,红薯,vege,Sweet potato
+9,姜,vege,Ginger
+9,南瓜,vege,Pumpkin
+9,圆白菜,vege,cabbage
+9,油菜,vege,Canola
+9,板栗,nut,chestnuts
+9,白果,nut,Ginkgo biloba
+9,巴旦木,nut,Badanmu
+9,榧子,nut,Scorpion
+9,花生,nut,Peanut
+9,核桃,nut,Walnuts
+9,葵花子,nut,sunflower seeds
+9,开心果,nut,Pistachio
+9,松子,nut,Pine nut
+9,夏威夷果,nut,Macadamia
+9,榛子,nut,hazelnut
+10,苹果,fruit,Apple
+10,菠萝,fruit,Pinapple
+10,百香果,fruit,Passiflora edulis
+10,橄榄,fruit,olive
+10,菇娘,fruit,Mushroom
+10,红提,fruit,Red
+10,海棠果,fruit,Jellyfish
+10,火龙果,fruit,火龙果
+10,金橘,fruit,Kumquat
+10,橘子,fruit,Tangerine
+10,蜜柑,fruit,Mandarin
+10,猕猴桃,fruit,Kiwi
+10,木瓜,fruit,papaya
+10,葡萄,fruit,Grape
+10,脐橙,fruit,Navel orange
+10,蛇果,fruit,Snake fruit
+10,柿子,fruit,persimmon
+10,山楂,fruit,Hawthorn
+10,石榴,fruit,pomegranate
+10,无花果,fruit,fig
+10,西柚,fruit,grapefruit
+10,香梨,fruit,Pear
+10,梨,fruit,Pear
+10,香蕉,fruit,Bananas
+10,柚子,fruit,grapefruit
+10,枣,fruit,Jujube
+10,神秘果,fruit,Mysterious fruit
+10,人参果,fruit,Ginseng fruit
+10,释迦果,fruit,Sakyamuni
+10,白菜,vege,White Cabbage
+10,菠菜,vege,baby spinach
+10,百合,vege,lily
+10,菜花,vege,cauliflower
+10,豆角,vege,Beans
+10,冬瓜,vege,Winter melon
+10,大辣椒,vege,Big chili
+10,大蒜,vege,garlic
+10,胡萝卜,vege,Carrot
+10,红薯,vege,Sweet potato
+10,姜,vege,Ginger
+10,木耳,vege,Fungus
+10,南瓜,vege,Pumpkin
+10,土豆,vege,Tudou
+10,西兰花,vege,Broccoli
+10,圆白菜,vege,cabbage
+10,油菜,vege,Canola
+10,板栗,nut,chestnuts
+10,碧根果,nut,Pecans
+10,白果,nut,Ginkgo biloba
+10,榧子,nut,Scorpion
+10,花生,nut,Peanut
+10,核桃,nut,Walnuts
+10,南瓜子,nut,pumpkin seeds
+10,开心果,nut,Pistachio
+10,松子,nut,Pine nut
+10,夏威夷果,nut,Macadamia
+10,榛子,nut,hazelnut
+11,苹果,fruit,Apple
+11,菠萝,fruit,Pinapple
+11,橄榄,fruit,olive
+11,甘蔗,fruit,Sugarcane
+11,菇娘,fruit,Mushroom
+11,海棠果,fruit,Jellyfish
+11,火龙果,fruit,火龙果
+11,金橘,fruit,Kumquat
+11,罗汉果,fruit,Siraitia grosvenorii
+11,橘子,fruit,Tangerine
+11,脐橙,fruit,Navel orange
+11,砂糖橘,fruit,Sugar orange
+11,蛇果,fruit,Snake fruit
+11,山楂,fruit,Hawthorn
+11,香蕉,fruit,Bananas
+11,柚子,fruit,grapefruit
+11,枣,fruit,Jujube
+11,人参果,fruit,Ginseng fruit
+11,释迦果,fruit,Sakyamuni
+11,白菜,vege,White Cabbage
+11,菠菜,vege,baby spinach
+11,百合,vege,lily
+11,胡萝卜,vege,Carrot
+11,红薯,vege,Sweet potato
+11,姜,vege,Ginger
+11,木耳,vege,Fungus
+11,土豆,vege,Tudou
+11,西兰花,vege,Broccoli
+11,圆白菜,vege,cabbage
+11,碧根果,nut,Pecans
+11,榧子,nut,Scorpion
+11,南瓜子,nut,pumpkin seeds
+12,菠萝,fruit,Pinapple
+12,橄榄,fruit,olive
+12,甘蔗,fruit,Sugarcane
+12,罗汉果,fruit,Siraitia grosvenorii
+12,橘子,fruit,Tangerine
+12,砂糖橘,fruit,Sugar orange
+12,香蕉,fruit,Bananas
+12,菠菜,vege,baby spinach
+12,胡萝卜,vege,Carrot
+12,红薯,vege,Sweet potato
+12,土豆,vege,Tudou
